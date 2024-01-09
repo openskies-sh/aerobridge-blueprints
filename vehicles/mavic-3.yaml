@@ -1,0 +1,133 @@
+---
+name: mavic
+firmware:
+  binary_file_url: https://firmware.ardupilot.org/Copter/stable-3.2.1/apm2-quad/ArduCopter.hex
+  binary_file_hash: 1682fd567
+  version: 1.2.1
+  friendly_name: December-2021 release
+  is_active: true
+model_details:
+  name: mavic-3 #must be lowercase
+  popular_name: DJI Mavic
+  three_d_rendering: https://aerobridge-pro-datastore.ams3.digitaloceanspaces.com/drone-3d/mavic/mavic.glb
+  category: 6
+  series: '2022.1'
+  max_endurance: '15.00'
+  max_range: '0.20'
+  max_speed: '15.00'
+  dimension_length: '0.00'
+  dimension_breadth: '0.00'
+  dimension_height: '0.00'
+  mass: 300
+  sub_category: 7
+  operating_frequency: '0.00'
+  max_certified_takeoff_weight: '0.000'
+  max_height_attainable: '0.000'
+  icao_aircraft_type_designator: HS20
+  manufacturer: DJI
+master_components:
+- name: Battery Lithium Polymer (LiPo)
+  rendering_lookup: 'A'
+  family: 5
+  drawing: https://grabcad.com/library/li-po-battery-2800-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: DJI  
+  supplier: Quadkart
+- name: Lithium Polymer Battery Charger
+  family: 9
+  rendering_lookup: '06bf6b37-92db-4d9c-ad5b-7845a458fabb'
+  drawing: "https://grabcad.com/library/03962a-hw107-lithium-battery-charging-module-1"
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: DJI
+  supplier: Quadkart
+- name: Camera
+  family: 7
+  rendering_lookup: 'B'
+  drawing: ""
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  manufacturer: DJI
+  supplier: Quadkart
+  quantity_required_for_build: 1
+- name: Camera Assembly
+  family: 7
+  rendering_lookup: 'F-1'
+  drawing: ""
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  manufacturer: DJI
+  supplier: Quadkart
+  quantity_required_for_build: 1
+- name: Motors
+  family: 1
+  rendering_lookup: 'D-1'
+  drawing: ""
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  manufacturer: DJI
+  supplier: Quadkart
+  quantity_required_for_build: 1
+- name: Propellors
+  family: 6
+  rendering_lookup: 'C-1'
+  drawing: ""
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  manufacturer: DJI
+  supplier: Quadkart
+  active: true
+  quantity_required_for_build: 1
+- name: Landing Gear
+  family: 12
+  rendering_lookup: 'G-1'
+  drawing: ""
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  manufacturer: DJI
+  supplier: Quadkart
+  quantity_required_for_build: 1

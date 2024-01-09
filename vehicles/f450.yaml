@@ -1,0 +1,238 @@
+---
+name: F450
+firmware:
+  binary_file_url: https://firmware.ardupilot.org/Copter/stable-3.2.1/apm2-quad/ArduCopter.hex
+  binary_file_hash: 1682fd567
+  version: 1.2.1
+  friendly_name: December-2021 release
+  is_active: true
+model_details:
+  name: f450 #must be lowercase
+  popular_name: Aerobridge F1
+  three_d_rendering: https://aerobridge-pro-datastore.ams3.digitaloceanspaces.com/drone-3d/f1/F1.glb
+  category: 2
+  series: '2022.1'
+  max_endurance: '15.00'
+  max_range: '0.20'
+  max_speed: '15.00'
+  dimension_length: '0.00'
+  dimension_breadth: '0.00'
+  dimension_height: '0.00'
+  mass: 300
+  sub_category: 7
+  operating_frequency: '0.00'
+  max_certified_takeoff_weight: '0.000'
+  max_height_attainable: '0.000'
+  icao_aircraft_type_designator: HS20
+  manufacturer: Aerobridge
+master_components:
+- name: Battery Lithium Polymer (LiPo)
+  rendering_lookup: '06805aa1-2b11-4940-b149-41d22634c652'
+  family: 5
+  drawing: https://grabcad.com/library/li-po-battery-2800-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer:
+  supplier: Robu India
+- name: Lithium Polymer Battery Charger
+  family: 9
+  rendering_lookup: '06bf6b37-92db-4d9c-ad5b-7845a458fabb'
+  drawing: "https://grabcad.com/library/03962a-hw107-lithium-battery-charging-module-1"
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: false
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer:
+  supplier: Robu India
+- name: Companion Computer Pi Zero 2
+  rendering_lookup: '0d70130a-8516-48fe-b47b-47c7c61e7c50'
+  family: 14
+  drawing: https://grabcad.com/library/raspberry-pi-4-model-b-3
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Raspberry Pi
+  supplier: Robu India
+- name: Flight Controller Pixhawk
+  rendering_lookup: '5ee06c19-a8b6-46d8-a354-2cd1fbb86ecd'
+  family: 3
+  drawing: https://grabcad.com/library/pixhawk-2-1-cube-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Cubepilot
+  supplier: Robu India
+- name: BLDC Motor Ready to Sky 2212 920KV
+  rendering_lookup: '66033c72-00c6-4c19-af53-6f2578632b29'
+  family: 1
+  drawing: https://grabcad.com/library/brushless-motor-bldc_2212-6t-2200kv-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: ReadytoSky
+  supplier: Robu India
+- name: Landing Gear Covers
+  rendering_lookup: '7438b563-95e7-48f2-857c-777cd9274098'
+  family: 12
+  drawing:
+  minimum_stock: 1
+  units:
+  assembly: true
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Frame F450 Quad, Integrated Power Distribution Board (PDB)
+  rendering_lookup: '82af6318-1957-4252-9ac4-e1e5301af78e'
+  family: 0
+  drawing: https://grabcad.com/library/matek-xt60-pdb-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Remote Controller
+  rendering_lookup: '8d03431f-b947-48dc-bb1d-3b9ec57344af'
+  family: 11
+  drawing:
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Telemetry Link
+  rendering_lookup: '9a132020-c480-4996-8669-d3886009c5a9'
+  family: 10
+  drawing:
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Propellers Orange 1045
+  rendering_lookup: 'ad8b3ffd-ca2c-4f20-829b-1aec15598b5f'
+  family: 6
+  drawing:
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 4
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Landing Gear
+  rendering_lookup: 'cdf08aa1-c59e-497c-85a7-8398f26030af'
+  family: 12
+  drawing:
+  minimum_stock: 1
+  units:
+  assembly: true
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Robu India
+- name: Camera Arducam 2.1
+  rendering_lookup: 'ceb12cc5-71a8-4e4a-b357-deb150c2f5b6'
+  family: 7
+  drawing: https://grabcad.com/library/raspberry-pi-camera-4
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Arducam
+  supplier: Quadkart
+- name: GPS Ublox M8N
+  rendering_lookup: 'e51a74de-6ed0-4750-af15-cdb15d40d254'
+  family: 8
+  drawing: https://grabcad.com/library/here-gps-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: uBlox
+  supplier: Robu India
+- name: Electronic Speed Controller (ESC) 4-in-one
+  rendering_lookup: 'f70d10d3-79fd-423e-80d9-841e9fbc3b6a'
+  family: 2
+  drawing: https://grabcad.com/library/30a-esc-with-simonk-firmware-1
+  minimum_stock: 1
+  units: ''
+  assembly: false
+  part_of_aircraft_assembly: true
+  trackable: true
+  purchaseable: true
+  salable: false
+  active: true
+  quantity_required_for_build: 1
+  manufacturer: Unknown
+  supplier: Quadkart
