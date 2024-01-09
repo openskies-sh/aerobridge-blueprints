@@ -1,0 +1,87 @@
+---
+name: Global Part Suppliers
+suppliers:
+- full_name: Amazon UK
+  common_name: Amazon UK
+  website: https://amazon.co.uk
+  email: support@amazon.co.uk
+  phone_number: +448663767788
+  company_number: 
+  country: UK
+  currency: GBP
+  role: 0
+  address:
+    address_line_1: 1 Principal Place
+    address_line_2: Worship Street
+    postcode: EC2A2FA
+    city: London
+    state: 
+    country: UK
+
+- full_name: Robu India
+  common_name: Robu India
+  website: https://robu.in
+  email: support@robu.in
+  phone_number: +912068197600
+  company_number: 
+  country: IN
+  currency: INR
+  role: 0
+  address:
+    address_line_1: PAP-J 146, Bhosari telco road
+    address_line_2: Bhosari MIDC, Pimpri chichwad
+    postcode: 411026
+    city: Pune
+    state: Maharashtra
+    country: IN
+    
+- full_name: Quadkart India
+  common_name: Quadkart
+  website: https://www.quadkart.in/
+  email: info@readytosky.com
+  phone_number: +918281205193
+  company_number: 
+  country: IN
+  currency: INR
+  role: 0
+  address:
+    address_line_1: Quadkart Market P.O
+    address_line_2: 
+    postcode: 686673
+    city: Muvattupuzha
+    state: Kerala
+    country: IN
+
+- full_name: 3DXR UK
+  common_name: 3DXR
+  website: https://www.3dxr.co.uk/
+  email:  info@3dxr.co.uk
+  phone_number: +441748905089
+  company_number: 
+  country: UK
+  currency: GBP
+  role: 0
+  address:
+    address_line_1: Gallowfields Trading Estate
+    address_line_2: North Yorkshire
+    postcode: DL104TQ
+    city: Richmond
+    state: North Yorkshire
+    country: UK
+
+- full_name: Amazon India
+  common_name: Amazon India
+  website: https://amazon.in
+  email: support@amazon.in
+  phone_number: +448663767788
+  company_number: 
+  country: UK
+  currency: GBP
+  role: 0
+  address:
+    address_line_1: GROUND FLOOR, EROS PLAZA 
+    address_line_2: EROS CORPORATE CENTRE
+    postcode: 110019 
+    city: South Delhi
+    state: 
+    country: IN

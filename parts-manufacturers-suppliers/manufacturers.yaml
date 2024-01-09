@@ -1,0 +1,171 @@
+---
+name: Global Part Manufactuers
+manufacturers:
+- full_name: Shenzen Ready to Sky Ltd.
+  common_name: ReadytoSky
+  website: https://www.readytosky.com/
+  email: info@readytosky.com
+  phone_number: +86-18627032538
+  company_number: 489434
+  country: CN
+  currency: CNY
+  role: 1
+  address:
+    address_line_1: Shenzhen GD
+    address_line_2: ''
+    postcode: 518109
+    city: Shenzhen
+    state: 
+    country: CN
+
+- full_name: Raspberry Pi Foundation
+  common_name: Raspberry Pi
+  website: https://raspberrypi.com
+  email: contact@raspberrypi.com
+  phone_number: +00000000000
+  company_number: 
+  country: UK
+  currency: GBP
+  role: 1
+  address:    
+    address_line_1: 37 Hills Road
+    address_line_2: 
+    postcode: CB2 1NT
+    city: Cambridge
+    state:
+    country: UK
+
+- full_name: DJI China Ltd.
+  common_name: DJI
+  website: dji.com
+  email: purchasing@dji.com
+  phone_number: +8675526656677
+  company_number: 
+  country: CN
+  currency: CNY
+  role: 1
+  address:    
+    address_line_1: DJI Sky City,No.55 Xianyuan Road
+    address_line_2: Nanshan District    
+    postcode: 570171
+    city: Shenzhen
+    state:
+    country: CN
+
+- full_name: T-motor
+  common_name: Tiger Motors
+  website: https://uav-en.tmotor.com/html/Company/ContactUs/
+  email: onlinesales@tmotor.com
+  phone_number: +86079188556889
+  company_number: 
+  country: CN
+  currency: CNY
+  role: 1
+  address:    
+    address_line_1: 24F, Bd.B, Twintowers, No.3399 
+    address_line_2: Ziyang Ave.    
+    postcode: 330096
+    city: Nanchang
+    state: Jiangxi
+    country: CN
+
+- full_name: CubePilot Pty. Ltd.
+  common_name: Cubepilot
+  website: https://www.cubepilot.com/
+  email: support@cubepilot.com
+  phone_number: +8675526656677
+  vat_number: ABN5163591488
+  country: AU
+  currency: AUD
+  role: 1
+  address:
+    address_line_1: 153 Mercer Street
+    postcode: 3220
+    city: Geelong
+    state: VIC
+    country: AU
+    
+- full_name: Dongguan Juhe Energy Co.,Ltd
+  common_name: Juhe Energy
+  website: http://www.juhexny.com
+  email: support@juhexny.com
+  phone_number: +868663767788
+  company_number: 
+  country: CN
+  currency: CNY
+  role: 1
+  address:
+    address_line_1: Room 401, Building 3
+    address_line_2: 235 Luoma Road, Qingxi Town    
+    postcode: 002200
+    city: Dongguan
+    state: Guangdong
+    country: CN
+
+- full_name: Aerobridge 
+  common_name: Aerobridge
+  website: http://www.aerobridge.io
+  email: support@aerobridge.io
+  phone_number: +868663767788
+  company_number: 
+  country: IN
+  currency: INR
+  role: 1
+  address:
+    address_line_1: 81 Shiv Shail 
+    address_line_2: South Ambazari Rd. Laxminagar
+    postcode: 440022
+    city: Nagpur
+    state: MS
+    country: IN
+
+- full_name: Unkown Manufacturer 
+  common_name: Unknown
+  website: http://www.aerobridge.io
+  email: support@aerobridge.io
+  phone_number: +868663767788
+  company_number: 
+  country: IN
+  currency: INR
+  role: 1
+  address:
+    address_line_1: 81 Shiv Shail 
+    address_line_2: South Ambazari Rd. Laxminagar
+    postcode: 440022
+    city: Nagpur
+    state: MS
+    country: IN
+
+- full_name: Arducam Technology Co. Ltd. 
+  common_name: Arducam
+  website: http://www.arducam.com
+  email: support@arducam.com
+  phone_number: +13194717640
+  company_number: 
+  country: CN
+  currency: HKD
+  role: 1
+  address:
+    address_line_1: 11/F, Lee Ka Industrial Building
+    address_line_2: 8 Ng Fong Street 
+    postcode: 100003
+    city: Kowloon
+    state: HK
+    country: CN
+
+- full_name: u-Blox AG
+  common_name: uBlox
+  website: https://www.u-blox.com
+  email: support@u-blox.com
+  phone_number: +41447227388
+  company_number: 
+  country: CH
+  currency: CHF
+  role: 1
+  address:
+    address_line_1: Zürcherstrasse 68
+    address_line_2: 
+    postcode: 8800
+    city: Thalwil
+    state: 
+    country: CH
